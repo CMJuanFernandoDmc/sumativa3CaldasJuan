@@ -1,0 +1,15 @@
+.colum1{
+    background-color: rgb(210, 255, 255);
+    border-radius: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+    .imagenDiv{
+        display: flex;
+  justify-content: center;
+    }
+    .imagen{
+      width: 200px;
+    }
+  }
